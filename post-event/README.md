@@ -25,9 +25,11 @@ The meeting started at 7:45 exactly as scheduled. At the end we continued some c
 
 ## Feedback from Attendees :speech_balloon:
 
-*Feel free to use quotes, lists, screen shots - whatever makes it easiest to share the info (please make sure you have permission to use a person's comments).* 
+We have asked for feedback through google forms. Here are the results attached
+![image](https://user-images.githubusercontent.com/74463091/144758410-b8b1bb8c-2b7f-40bf-afae-b6e6f63b636a.png) 
+![image](https://user-images.githubusercontent.com/74463091/144758418-1c049dc2-95a0-41e5-90f8-4e1b53c6221d.png)
+![image](https://user-images.githubusercontent.com/74463091/144758431-1ee0f61f-14e2-428c-b321-97cd4d7e96da.png)
 
-*Tell us how you got the feedback too - was it done during the event at the end, comments made on social media/community channels or did you put out any formal feedback forms etc.?* 
 
 
 ## Social Media Drop 
