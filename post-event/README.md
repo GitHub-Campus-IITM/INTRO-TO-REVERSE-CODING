@@ -1,39 +1,27 @@
-# Post Event Report [EVENT NAME] [DATE]
-
-**Use this template to fill out a report about your event. You don't need to include all the sections offered below they are there as a guide, just delete the ones that aren't applicable or add new ones if you feel like there is something missing.** 
-
-**Remember you can use any markdown features, so feel free to add links to the event & of course you can use emoji! :sparkles:** 
-
+# Post Event Report [Introduction to Reverse Coding] [2021/12/05]
 
 ## Attendance :dancers:
 
-*Was it well attended? Was there a diverse attendance in terms of gender, socio-economic class, race? Who was attending - students/professionals/a mix?* 
+63 people joined the meeting including the presenter and organizer. So the attendance went much more than we expected.
 
 ## Venue :school:
 
-*Any comments on the venue, did it work well? Include links to the location if you like.*
+We chose Microsoft teams to host the session. It was my first time using this, so I felt a little uncomfortable. But I now learnt how to use this. I'll fix all the problems I faced this time
 
 ## Planning vs Implementation :paperclip:
 
-*Did the schedule change? Or run over?*
+The meeting started at 7:45 exactly as scheduled. At the end we continued some chit chats with some attendees, so it went longer than we expected, but the main event went on time, we ended the main part at 8:40.
 
-*Did you have enough swag? Did everything get to you on time and did anything not get taken by your attendees?* 
 
-*Also think about including thoughts on your budget (if you were involved in this side of the event), did it work well? Was there any room for better cost saving? Anything that wasn't worth it?*
-
-*Were there any additions?*
-
-*You can also use this section to note anything that wasn't in your original issue.* 
-
-*This might not be the case, but it's useful to note if you needed to run out and buy something to support the event or order food or anything outside of what you expected to deliver - even if that is not related to purchasing things. For example if you ran an extra workshop or did something extra to help out the organising team.* 
 
 ## Positives :+1:
 
-*The good bits - A bullet point list is effective here*
+* The attendance didn't fall with time. We hold almost a constant number of people attending the session throughout the whole time.
+* We got a lot more participation than we expected.
 
 ## Negatives :-1:
 
-*The not-so-good bits - A bullet point list is effective here*
+* The program was a little fast it seems.
 
 ## Feedback from Attendees :speech_balloon:
 
@@ -41,18 +29,22 @@
 
 *Tell us how you got the feedback too - was it done during the event at the end, comments made on social media/community channels or did you put out any formal feedback forms etc.?* 
 
-## What projects did students make with the GitHub Student Developer Pack?
-
-*Did attendees use tools from the Pack? We're curious how students are using the GitHub Student Developer Pack :smile:*
 
 ## Social Media Drop 
 
-*Include links here to any posts about the event & your involvement* 
+LinkedIn posts: 
+* https://www.linkedin.com/posts/sudip-mondal-374a12201_hi-guys-github-coding-community-of-iitm-activity-6871838221173612544-R3PU
+* https://www.linkedin.com/posts/sudip-mondal-374a12201_join-conversation-activity-6873149700560752640-Ez2a
+
+Twitter post: https://twitter.com/SUDIPMO19931261/status/1466072750238412802
+
+Recording of the meeting: https://www.youtube.com/watch?v=9dXqmOgnfk8
 
 ## Photos 
+![image](https://user-images.githubusercontent.com/74463091/144754366-3e2bb248-5f84-44b8-89ca-d5e7ac0b6c22.png)
+![image](https://user-images.githubusercontent.com/74463091/144754371-1282ed2c-3519-4e8d-aea7-1dd4b43be1cf.png)
 
-*You can embed any images here - see the [markdown guide](https://guides.github.com/features/mastering-markdown/) for how to do this*
 
 ## Summary :thought_balloon:
 
-*Use this section to give your personal overview of the event and how this went for you as a Campus Expert. Would you attend again? Did people talk to you about the program? What kind of vibes did you get for the community?*
+This was a quick and brief session as we planned it. It was really informative, and [Dhruv Maroo](https://github.com/DMaroo) delivered the content too well. Thanks to him to bring the session to the best possible.
